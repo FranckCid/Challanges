@@ -22,3 +22,12 @@ Challanges from: http://rosettacode.org/wiki/Category:Programming_Tasks
 
 ###Solved:
 [100 doors]
+
+--------------------------------------------------
+
+## Coding Bat
+Challanges from: http://codingbat.com/
+
+###Solved:
+####Warmup 1:
+[1], [2], [3], [4], [5], [6], [7], [8], [9], [10]
